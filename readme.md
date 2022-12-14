@@ -35,4 +35,5 @@ Also connect **vscode** with **gitlab**
 ## Links
 
 - [Udemy course](https://www.udemy.com/course/full-stack-crash-course/)
+- [My github repository](https://github.com/agedito/udemy-full-stack-crash-course)
 - [Final app](https://todayilearned-jonas.netlify.app/)
