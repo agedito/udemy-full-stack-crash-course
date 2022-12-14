@@ -38,3 +38,4 @@ Also connect **vscode** with **gitlab**
 - [My github repository](https://github.com/agedito/udemy-full-stack-crash-course)
 - [Final app](https://todayilearned-jonas.netlify.app/)
 - [Google Fonts](https://fonts.google.com/)
+- [Tailwinds Color Palettes](https://tailwindcss.com/)
