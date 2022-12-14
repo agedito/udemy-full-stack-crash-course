@@ -12,6 +12,15 @@ Notes and code from udemy course [Full Stack Crash Course](https://www.udemy.com
 - **Auto Rename Tag** (rename html tags)
 - **One Monokai Theme** (visual studio code theme)
 
+### Own extensions
+
+This extensions are not intaling at course but I isntalled too:
+
+- **Todo Tree** (Todo list)
+- **TODO Highliht** (TODO, FIME... comments)
+- **Git Graph** (Git branch trees)
+- **Docker** (Docker support)
+
 ### Settings
 
 Go to visual studio code settings:
@@ -20,6 +29,8 @@ Go to visual studio code settings:
 - Check **Format on save**
 - Set **auto save** to **onFocusChange**
 - Activate **One Monokai Theme**
+
+Also connect **vscode** with **gitlab**
 
 ## Links
 
