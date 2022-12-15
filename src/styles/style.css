@@ -60,7 +60,7 @@ main {
 .fact {
   font-size: 20px;
   line-height: 1.4;
-  letter-spacing: ñ-1px;
+  letter-spacing: -1px;
   background-color: #44403c;
   margin-bottom: 16px;
   padding: 16px 24px;
