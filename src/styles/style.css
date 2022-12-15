@@ -19,6 +19,15 @@
 
 .header {
   margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 body {
@@ -39,6 +48,8 @@ h1 {
   text-transform: uppercase;
   text-align: center;
   font-family: "Coiny", sans-serif;
+  line-height: 1;
+  margin-top: 6px;
 }
 
 .fact {
