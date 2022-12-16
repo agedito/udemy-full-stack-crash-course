@@ -1,0 +1,41 @@
+{
+	"info": {
+		"_postman_id": "30658515-d32b-40ac-8568-c33e34d9d467",
+		"name": "udemy fullstrack crash course",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "8384106"
+	},
+	"item": [
+		{
+			"name": "get",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "apikey",
+						"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt1Z2Z1dW1vcXl4cW93dG5ydWprIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY3MTE2MjA4OSwiZXhwIjoxOTg2NzM4MDg5fQ.n6shKyD0s0DlhLHLc-Wy7Wk9VwR0E4aOC7anDnmxeQQ"
+					},
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imt1Z2Z1dW1vcXl4cW93dG5ydWprIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY3MTE2MjA4OSwiZXhwIjoxOTg2NzM4MDg5fQ.n6shKyD0s0DlhLHLc-Wy7Wk9VwR0E4aOC7anDnmxeQQ"
+					}
+				],
+				"url": {
+					"raw": "https://kugfuumoqyxqowtnrujk.supabase.co/rest/v1/facts",
+					"protocol": "https",
+					"host": [
+						"kugfuumoqyxqowtnrujk",
+						"supabase",
+						"co"
+					],
+					"path": [
+						"rest",
+						"v1",
+						"facts"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

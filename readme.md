@@ -16,6 +16,7 @@ Notes and code from udemy course [Full Stack Crash Course](https://www.udemy.com
 
 This extensions are not intaling at course but I isntalled too:
 
+- **Rest Client** (Execute .http files)
 - **Todo Tree** (Todo list)
 - **TODO Highliht** (TODO, FIME... comments)
 - **Git Graph** (Git branch trees)
@@ -34,8 +35,18 @@ Also connect **vscode** with **gitlab**
 
 ## Links
 
+#### Code
+
 - [Udemy course](https://www.udemy.com/course/full-stack-crash-course/)
 - [My github repository](https://github.com/agedito/udemy-full-stack-crash-course)
 - [Final app](https://todayilearned-jonas.netlify.app/)
+
+#### Css
+
 - [Google Fonts](https://fonts.google.com/)
 - [Tailwinds Color Palettes](https://tailwindcss.com/)
+
+#### Database
+
+- [Supabase](https://supabase.com//)
+- [Data for database](https://docs.google.com/spreadsheets/d/1eeldcA_OwP4DHYEvjG0kDe0cRys-cDPhc_E9P9G1e3I/edit#gid=0)
